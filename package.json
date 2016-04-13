@@ -1,6 +1,6 @@
 {
   "name": "directory-tree-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A streaming directory traverser for node 4 or greater",
   "repository": {
     "type": "git",
@@ -28,8 +28,7 @@
     "version": "thoughtful changelog -o -a && npm run thought",
     "preversion": "npm run thoughtcheck"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "event-stream": "^3.3.2",
     "ghooks": "^1.0.3",
